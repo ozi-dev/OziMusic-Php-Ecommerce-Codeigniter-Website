@@ -39,7 +39,7 @@ OziMusic is an e-commerce website for musical instruments and equipment, built u
 
   
 :sparkle: Users Page(level 2 user)
-![Screenshots](https://cdn.discordapp.com/attachments/793214764523585536/1094721742401982464/image.png)
+![Screenshots](https://cdn.discordapp.com/attachments/793214764523585536/1094724900557684846/image.png)
 
 ## Contact me 
 
