@@ -17,13 +17,13 @@ defined('BASEPATH') or exit('No direct script access allowed');
             <div class="form-group">
                 <label for="category_id">Category</label>
                 <select class="form-control" id="category_id" name="category_id">
-                        <option type="number" id="category_id" name="category_id" value="7">Piyano-org</option>
-                        <option type="number" id="category_id" name="category_id" value="6">Evde Müzik</option>
-                        <option type="number" id="category_id" name="category_id" value="5">Davul</option>
-                        <option type="number" id="category_id" name="category_id" value="4">Dj Ekipmanları</option>
-                        <option type="number" id="category_id" name="category_id" value="3">Üflemeliler</option>
-                        <option type="number" id="category_id" name="category_id" value="2">Keman</option>
-                        <option type="number" id="category_id" name="category_id" value="1">Gitar</option>
+                        <option type="number" id="category_id" name="category_id" value="7">Piano-Org</option>
+                        <option type="number" id="category_id" name="category_id" value="6">Music at Home</option>
+                        <option type="number" id="category_id" name="category_id" value="5">Drums</option>
+                        <option type="number" id="category_id" name="category_id" value="4">Dj Equipments</option>
+                        <option type="number" id="category_id" name="category_id" value="3">Wind Instruments</option>
+                        <option type="number" id="category_id" name="category_id" value="2">Violin</option>
+                        <option type="number" id="category_id" name="category_id" value="1">Guitar</option>
                 </select>
             </div>
             
